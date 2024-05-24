@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.bgContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 3rem 0;
+  color: white;
+}
+.mainheading {
+  text-align: center;
+  color: blue;
+  margin-bottom: 2rem;
+}
